@@ -3,7 +3,7 @@ title: 'Bluetooth-Modul'
 date: '2018-10-02T07:01:49.000Z'
 tags:
     - 'sensor'
-coverImage: '53_bluetooth-modul.jpg'
+coverImage: './53_bluetooth-modul.png'
 material_number: '53'
 material_type: 'sensor'
 material_short_descr: 'Seeed Studio Grove – Serial Bluetooth V3.0'
