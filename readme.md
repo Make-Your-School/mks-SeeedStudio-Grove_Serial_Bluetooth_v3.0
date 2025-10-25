@@ -60,8 +60,8 @@ Um dieses Bauteil zu verwenden, wird lediglich die Bibliothek "SoftwareSerial" b
 
 Der Beispiel-Code ist (vorerst) im Ordner "examples" zu finden.
 
-```c++:./examples/Grove_Serial_Bluetooth_v3.0_.0_minimal/Grove_Serial_Bluetooth_v3.0_.0_minimal.ino
-./examples/Grove_Serial_Bluetooth_v3.0_.0_minimal/Grove_Serial_Bluetooth_v3.0_.0_minimal.ino
+```c++:./examples/Grove_Serial_Bluetooth_v3.0.0_minimal/Grove_Serial_Bluetooth_v3.0.0_minimal.ino
+./examples/Grove_Serial_Bluetooth_v3.0.0_minimal/Grove_Serial_Bluetooth_v3.0.0_minimal.ino
 ```
 
 ## Anleitungen
